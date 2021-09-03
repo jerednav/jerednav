@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jered Nav</h1>
-<h3 align="center">A passionate frontend developerMy name is Jered, from Los Angeles, California. I am knowledgeable in HTML, CSS, Javascript, React, MongoDB. Software engineering has given me the ability to use my passion for innovation, creativity and aesthetics to produce responsive and aesthetic websites and applications. from India</h3>
+<h3 align="center">Software Engineer from Los Angeles, CA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerednav&label=Profile%20views&color=e1c193&style=flat" alt="jerednav" /> </p>
 
 - 🔭 I’m currently working on **Mindful, a minimal to-do list, goal and habit track with time-focused sessions and b**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working with **React, Node, MongoDB, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [http://www.jerednav.com](http://www.jerednav.com)
 
