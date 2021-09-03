@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jered Nav</h1>
 <h3 align="center">Software Engineer from Los Angeles, CA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerednav&label=Profile%20views&color=e1c193&style=flat" alt="jerednav" /> </p>
-
 - 🔭 I’m currently working on **Mindful, a minimal to-do list, goal and habit track with time-focused sessions and b**
 
 - 🌱 I’m currently working with **React, Node, MongoDB, HTML, CSS**
