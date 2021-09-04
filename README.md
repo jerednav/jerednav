@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jered Nav</h1>
 <h3 align="center">Software Engineer from Los Angeles, CA</h3>
 
-- 🔭 I’m currently working on **Mindful, a minimal to-do list, goal and habit tracker with time-focused sessions
+- 🔭 I’m currently working on **Mindful, a minimal to-do list, goal and habit tracker with time-focused sessions**
 
 - 🌱 I’m currently working with **React, Node, MongoDB, HTML, CSS**
 
