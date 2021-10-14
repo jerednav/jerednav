@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jered Nav</h1>
 <h3 align="center">Software Engineer from Los Angeles, CA</h3>
 
-- 🔭 I’m currently working on **Contract work**
+- 🔭 I’m currently working on **Mindful Tasks, Daily task tracker with timer to assign tasks to and get things done**
 
 - 🌱 I’m currently working with **React, Node, MongoDB, HTML, CSS**
 
