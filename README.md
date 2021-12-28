@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jered Nav</h1>
 <h3 align="center">Software Engineer from Los Angeles, CA</h3>
 
-- 🔭 I’m currently working on **Mindful List, Create lists of todos, tasks and etc. with minimal and simple interface.**
+- 🔭 I’m currently working on **Mindful Money, a budgeting app to organize and simplify your expenses, with minimal and clean interface.**
 
 - 🌱 I’m currently working with **React, Node, MongoDB, HTML, CSS**
 
